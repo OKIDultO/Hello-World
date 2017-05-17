@@ -1,2 +1,3 @@
 # Hello_world
-First repository
+
+I'm glad to join GitHub!
