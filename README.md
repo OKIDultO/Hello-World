@@ -1,3 +1,3 @@
-# Hello_world
+# Hello-World
 
 I'm glad to join GitHub!
